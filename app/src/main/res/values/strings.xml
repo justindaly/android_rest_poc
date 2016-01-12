@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RestPoC</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="json_url"><![CDATA[https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20rss%20where%20url%3D%22http%3A%2F%2Frss.news.yahoo.com%2Frss%2Ftopstories%22&format=json&diagnostics=true&callback=]]></string>
+</resources>
